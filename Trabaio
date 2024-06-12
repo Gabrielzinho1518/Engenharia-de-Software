@@ -1,0 +1,816 @@
+4. MODELOS, MÉTODOS E ARTEFATOS
+4.1 VISÃO GERAL
+Esta seção apresenta uma descrição de alto nível de alguns modelos, métodos e artefatos de
+uso mais comum no gerenciamento de projetos. Os itens mencionados nesta seção não
+pretendem ser prescritivos e tampouco abordar todas as possibilidades, mas, sim, ajudar as
+equipes de projeto a pensar nas opções que existem à sua disposição.
+ No contexto deste guia, os termos estão assim definidos:
+• Modelo. Representa a estratégia do pensamento para explicar um processo,
+framework ou uma experiência.
+• Método. É o meio de alcançar um resultado, saída ou entrega do projeto.
+• Artefato. Pode ser um modelo, documento, saída ou entrega do projeto.
+Enquanto as equipes do projeto analisam as questões de tailoring na Seção 3.5 e decidem
+quais respostas específicas aplicar, começarão a construir um framework para estruturar
+seus esforços para entregar os resultados do projeto. Por exemplo, as equipes do projeto
+selecionam métodos específicos para possibilitar a captura e o compartilhamento das
+informações aplicáveis para que possam rastrear o andamento, aprimorar o desempenho da
+equipe do projeto em tempo real e engajar as partes interessadas.
+A Figura 4-1 mostra como o tailoring inclui modelos e métodos usados para realizar o
+trabalho nos domínios de desempenho de projetos. As entregas e os artefatos também
+passam pelo tailoring para estarem de acordo com o projeto e os ambientes interno e
+externo.
+205
+Figura 4-1. Tailoring para adequação no contexto do projeto e o ambiente
+
+206
+Conforme qualquer processo, o uso dos modelos, métodos e artefatos tem custos associados
+relativos ao tempo, nível de especialização/ proficiência no uso, impacto sobre a
+produtividade, etc. As equipes do projeto devem considerar essas implicações no momento
+de decidir quais elementos usar. As equipes do projeto, na medida do possível, devem evitar
+usar qualquer coisa que:
+• duplique ou acrescente esforço desnecessário,
+• não seja útil para a equipe do projeto e suas partes interessadas,
+• produza informações incorretas ou confusas, ou
+• atenda às necessidades individuais em prejuízo daquelas voltadas à equipe do
+projeto.
+ 4.2 MODELOS DE USO MAIS COMUM
+Os modelos refletem visões simplificadas em pequena escala da realidade e apresentam
+cenários atuais, estratégias ou abordagens para otimizar os processos e esforços de trabalho.
+Os modelos ajudam a explicar como algo funciona no mundo real. Os modelos podem moldar
+o comportamento e indicar abordagens para resolver problemas ou satisfazer necessidades.
+Alguns foram desenvolvidos para determinados projetos e equipes de projeto; outros são de
+natureza mais generalizada. Sempre que viável, os modelos desta seção são apresentados
+conforme sua aplicação aos projetos. O conteúdo desta seção não descreve como
+desenvolver ou criar modelos novos.
+As descrições de modelos apresentadas proporcionam uma visão de alto nível. Os integrantes
+da equipe do projeto e outras partes interessadas podem consultar várias fontes (ex: a
+biblioteca de produtos de padronização do PMI ou PMIstandards+™) para descrições e
+explicações mais completas dos modelos.
+4.2.1 MODELOS DE LIDERANÇA SITUACIONAL
+Os modelos de liderança situacional compreendem um subconjunto de diversos modelos de
+liderança. Assim como as equipes de projeto realizam o tailoring dos processos, métodos,
+ciclos de vida e abordagens de desenvolvimento, os estilos de liderança também passam por
+tailoring. Os modelos de liderança situacional descrevem como os estilos de liderança podem
+ser submetidos ao tailoring para atender às necessidades individuais e da equipe do projeto.
+Os dois exemplos a seguir são modelos de liderança situacional.
+207
+4.2.1.1 Liderança Situacional® II
+O modelo de liderança situacional (Situational Leadership®) II de Ken Blanchard mede o
+desenvolvimento dos membros da equipe do projeto usando competência e
+comprometimento como as duas principais variáveis. Competência é a combinação de
+capacidade, conhecimento e habilidade. O comprometimento reflete a confiança e a
+motivação do indivíduo. À medida que a competência e o comprometimento de um
+indivíduo evoluem, os estilos de liderança progridem do direcionamento para o treinamento,
+passando pelo apoio à delegação, para atender às suas necessidades.
+4.2.1.2 Modelo OSCAR
+O modelo de treinamento e orientação foi desenvolvido por Karen Whittleworth e Andrew
+Gilbert. Ajuda as pessoas a adaptar seus estilos de treinamento ou liderança para apoiar os
+indivíduos com um plano de ação para o desenvolvimento pessoal. O modelo se refere a
+cinco fatores determinantes:
+• Resultado. O resultado caracteriza as metas de longo prazo de um indivíduo e o
+resultado desejado em cada sessão de diálogo.
+• Situação. Uma situação permite conversar sobre as habilidades, capacidades e nível
+de conhecimento atuais do membro da equipe do projeto; por que a pessoa está
+nesse nível; e como esse nível afeta o desempenho individual e as relações entre
+pares.
+• Escolhas/consequências. Escolha e/ou consequências identificam todos os caminhos
+possíveis para alcançar o resultado desejado e as consequências de cada escolha,
+para que o indivíduo possa escolher os caminhos viáveis para atingir seus objetivos
+de longo prazo.
+• Ações. A ação se compromete com aprimoramentos específicos, com enfoque em
+metas imediatas e possíveis com as quais o indivíduo pode trabalhar dentro de um
+prazo definido.
+• Revisão. A realização de reuniões periódicas oferece suporte e ajuda para garantir
+que todos se mantenham motivados e no caminho certo.
+4.2.2 MODELOS DE COMUNICAÇÃO
+O sucesso do projeto depende da comunicação eficaz. Os modelos de comunicação
+demonstram conceitos associados a como os quadros de referência de remetentes e
+destinatários afetam a eficácia da comunicação, como o meio de comunicação influencia a
+208
+eficácia da comunicação, e os tipos de desconexões entre as expectativas e a realidade do
+usuário final.
+Com a prevalência de equipes de projetos multiculturais e partes interessadas dispersas,
+esses modelos fornecem uma maneira de visualizar estilos e métodos de comunicação para
+aumentar a eficiência e a eficácia da comunicação. Existem muitos modelos de comunicação
+que demonstram os diferentes aspectos desta disciplina. As Seções 4.2.2.1 a 4.2.2.3
+oferecem exemplos de modelos de comunicação.
+4.2.2.1 Comunicação multicultural
+O modelo de comunicação desenvolvido por Browaeys e Price incorpora a ideia de que a
+mensagem em si e a forma de transmissão recebem a influência do conhecimento atual do
+remetente, sua experiência, idioma, pensamento e estilos de comunicação, bem como os
+estereótipos e o relacionamento com o destinatário. De modo semelhante, conhecimento,
+experiência, idioma, pensamento e estilos de comunicação do destinatário, bem como os
+estereótipos e o relacionamento com o remetente influenciarão o modo como a mensagem
+é interpretada.
+4.2.2.2 Eficácia dos canais de comunicação
+Alistair Cockburn desenvolveu um modelo que descreve os canais de comunicação ao longo
+dos eixos de eficácia e riqueza. Como definida por Richard Daft e Robert Lengel, a riqueza
+está relacionada ao volume de conhecimento que pode ser transmitido por um meio. A
+riqueza da mídia é uma função das suas características, incluindo a capacidade de:
+• manipular simultaneamente várias pistas de informações;
+• facilitar feedback rápido;
+• estabelecer enfoque pessoal; e
+• utilizar linguagem natural.
+A riqueza na comunicação proporciona que um amplo espectro de informações seja
+transmitido rapidamente. As situações que envolvem informações complexas, complicadas e
+pessoais se beneficiam dos canais de comunicação mais ricos, como a comunicação
+presencial. As situações que transmitem informações simples e factuais podem usar canais
+de comunicação não tão ricos como uma nota ou mensagem de texto.
+4.2.2.3 Vale de execução e avaliação
+Donald Norman descreveu o vale de execução como a medida que um item corresponde ao
+que uma pessoa espera que ele faça. Dito de outra forma, é a diferença entre a intenção de
+209
+um usuário e o que o item permite ou ajuda que ele faça. O automóvel com capacidade de
+estacionar paralelamente ao meio fio teria um vale de execução se o motorista esperasse
+pressionar o botão “estacionar” e o automóvel estacionasse sozinho, mas isso não acontece.
+O vale de avaliação é até quanto um item oferece apoio ao usuário para descobrir como
+interpretá-lo para uma interação eficaz. O mesmo exemplo do estacionamento mostraria um
+vale de avaliação se os controles não fossem projetados de tal forma que o motorista
+pudesse facilmente determinar como iniciar a função de auto estacionamento.
+4.2.3 MODELOS MOTIVACIONAIS
+As pessoas têm melhor desempenho quando estão motivadas, e as pessoas são motivadas
+por coisas diferentes. Entender o que motiva os integrantes da equipe do projeto e outras
+partes interessadas ajuda no tailoring das recompensas para cada indivíduo, promovendo,
+assim, um engajamento mais eficaz. São muitos os modelos que ilustram como as pessoas
+são motivadas. As Seções 4.2.3.1 a 4.2.3.4 descrevem quatro modelos, embora estes sejam
+uma pequena representação dos modelos disponíveis.
+4.2.3.1 Fatores de higiene e motivação
+Frederick Herzberg realizou um estudo dos fatores motivacionais da vida profissional. Ele
+acreditava que a satisfação e a insatisfação no trabalho decorrem de condições chamadas
+fatores motivacionais. Entre os fatores motivacionais incluem-se questões que se relacionam
+ao conteúdo do trabalho como realização, crescimento e progresso. Fatores motivacionais
+insuficientes levam à insatisfação. Se forem suficientes, haverá satisfação.
+Herzberg também identificou fatores de higiene relativos ao trabalho como as políticas da
+empresa, o salário e o ambiente físico. Se os fatores de higiene forem insuficientes, causarão
+insatisfação. Entretanto, ainda que suficientes, não trarão satisfação.
+4.2.3.2 Motivação intrínseca versus extrínseca
+Daniel Pink publicou vários livros sobre os fatores intrínsecos que motivam as pessoas. Ele
+afirmou que, embora as recompensas extrínsecas, como o salário, sejam motivadoras até
+certo ponto, uma vez que a pessoa receba o que é justo pelo seu trabalho, o poder
+motivacional das recompensas extrínsecas deixa de existir. Para trabalhos complicados e
+desafiadores, como é a maior parte do trabalho em projetos, motivadores intrínsecos são
+muito mais duradouros e eficazes. Daniel identifica três tipos de motivadores intrínsecos:
+autonomia, domínio e propósito:
+210
+Autonomia. É o desejo de dirigir a própria vida. Está alinhado a poder determinar como,
+onde e quando realizar o trabalho. A autonomia inclui horários flexíveis de trabalho, home
+office e trabalho em equipes de projeto com auto seleção e auto gerenciamento.
+Domínio. Implica ser capaz de se aperfeiçoar e se destacar. O desejo de realizar um trabalho
+excelente, aprender e alcançar objetivos são aspectos do domínio.
+Propósito. Traz em seu significado a necessidade de fazer a diferença. Conhecer a visão do
+projeto e como o trabalho contribui para alcançar essa visão permite que as pessoas sintam
+que estão fazendo a diferença.
+4.2.3.3 Teoria das necessidades
+O modelo de David McClellan afirma que todas as pessoas são movidas pela necessidade de
+realizar, poder e pertencer. A força relativa de cada necessidade depende das experiências e
+da cultura do indivíduo.
+• Realização. As pessoas que se motivam pela realização, como alcançar uma meta, são
+motivadas pelas atividades e o trabalho, desafiadores, mas razoáveis.
+• Poder. As pessoas motivadas pelo poder gostam de organizar, motivar e liderar outras
+pessoas. São motivadas quando têm mais responsabilidades.
+• Pertencimento. As pessoas que se motivam pelo pertencimento procuram aceitação
+e o sentimento de pertencer. Sentem-se motivadas ao fazer parte de uma equipe.
+4.2.3.4 Teoria X, Teoria Y e Teoria Z
+Douglas McGregor criou os modelos Teoria X e Teoria Y que representam um espectro da
+motivação do funcionário e os respectivos estilos de gerenciamento. Mais adiante foi
+ampliado para incluir a Teoria Z.
+• Teoria X. O lado X do espectro presume que as pessoas trabalham por um único
+objetivo: obter renda. Não são ambiciosos nem orientados a objetivos. O respectivo
+estilo de gerenciamento para motivar essas pessoas é uma abordagem prática e
+diretiva (top-down). Este estilo de gerenciamento é geralmente visto em ambiente
+de produção, que demanda muita mão de obra ou vários níveis de gerenciamento.
+• Teoria Y. O lado Y do espectro presume que os indivíduos sejam motivados de forma
+intrínseca pela realização de um bom trabalho. O respectivo estilo de gerenciamento
+traz uma sensação mais pessoal de treinamento. O gerente incentiva a criar e
+questionar. Este estilo de gerenciamento é geralmente visto em ambientes criativos e
+do trabalho com conhecimento.
+211
+• Teoria Z. Abraham Maslow viu a Teoria Z como uma dimensão transcendente para o
+trabalho em que as pessoas são motivadas pela autorrealização, pelos valores e por
+uma causa mais elevada. O estilo ideal de gerenciamento nesta situação é aquele que
+cultiva insight e significado.
+A versão de William Ouchi da Teoria Z se concentra em motivar os funcionários,
+criando um emprego para a vida toda em que o enfoque está no bem-estar dos
+funcionários e suas famílias. Este estilo de gerenciamento procura promover grande
+produtividade, com moral e satisfação elevados.
+4.2.4 MODELOS DE MUDANÇA
+Muitos projetos trazem um aspecto de mudança de sistemas, comportamentos, atividades e,
+às vezes, culturas. O gerenciamento deste tipo de mudança requer refletir sobre como fazer
+a transição do atual para o futuro estado desejado. São muitos os modelos que descrevem as
+atividades necessárias de um gerenciamento de mudanças bem-sucedido. As Seções 4.2.4.1
+a 4.2.4.5 oferecem exemplos de modelos de mudança.
+4.2.4.1 Gerenciamento de mudança nas organizações
+Gerenciamento de mudança nas organizações: Um guia prático [3] é um modelo iterativo que
+se baseia em elementos comuns em vários modelos de gerenciamento de mudança. O
+framework tem cinco elementos associados e interconectados por intermédio de uma série
+de ciclos de feedback:
+• Formular a mudança. Este elemento tem como foco a criação da justificativa para
+ajudar as pessoas a entender por que a mudança é necessária e como o estado futuro
+será melhor.
+• Planejar a mudança. Identificar as atividades ajuda as pessoas a se prepararem para
+a transição do atual para o estado futuro.
+• Implementar a mudança. Este elemento iterativo se concentra em demonstrar as
+capacidades do estado futuro, verificar para garantir se elas estão atingindo o
+impacto pretendido e responder com as melhorias ou adaptações necessárias.
+• Gerenciar a transição. Este elemento considera como resolver as necessidades
+relativas à mudança que podem surgir assim que o estado futuro for alcançado.
+• Sustentar a mudança. Este elemento procura assegurar que as novas capacidades
+continuem e que os processos ou comportamentos anteriores sejam interrompidos.
+212
+4.2.4.2 Modelo ADKAR®
+Jeff Hiatt desenvolveu o modelo ADKAR®, com cinco etapas sequenciais pelas quais todos
+passam para se adaptar a uma mudança:
+• Etapa 1: Conscientização. Esta etapa identifica por que a mudança é necessária.
+• Etapa 2: Desejo. Quando todos ficam a par da necessidade da mudança, é preciso
+que haja o desejo de fazer parte e apoiá-la.
+• Etapa 3: Conhecimento. As pessoas precisam entender como mudar. Esta etapa
+inclui compreender os novos processos e sistemas, além dos novos papeis e
+responsabilidades. Esse conhecimento pode ser transmitido por meio de
+treinamento e educação.
+• Etapa 4: Habilidade. Nesta etapa, o conhecimento tem o apoio da realização prática,
+e acesso a expertise e ajuda, se necessário.
+• Etapa 5: Reforço. O reforço dá sustentação à mudança. Nesta etapa recompensas,
+reconhecimento, feedback e medição podem estar presentes.
+4.2.4.3 Processo de 8 etapas para liderar a mudança
+John Kotter apresentou o Processo de 8 etapas para liderar a mudança, para transformar as
+organizações. Trata-se de uma abordagem diretiva em que a necessidade e a abordagem da
+mudança têm origem nos níveis superiores da organização para, depois, serem transmitidas
+aos níveis inferiores via níveis de gerenciamento da organização até os destinatários da
+mudança. As oito etapas são:
+• Etapa 1: Criar a urgência. Identifique potenciais ameaças e oportunidades que gerem
+a necessidade da mudança.
+• Etapa 2: Formar uma aliança forte. Identifique os líderes da mudança. Estes não se
+baseiam, necessariamente, na hierarquia. Devem ser pessoas influentes
+provenientes de várias funções, com várias expertises, de importância social e
+política.
+• Etapa 3: Criar a visão da mudança. Identifique quais valores são importantes para a
+mudança. Em seguida, crie uma declaração sucinta sobre a visão, com o resumo da
+mudança. Depois, identifique a estratégia para realizar a visão.
+• Etapa 4: Comunicar a visão. Comunique a visão durante todo o processo da
+mudança. Aplique a visão em todos os aspectos da organização. O gerenciamento
+sênior e o comitê de mudanças devem comunicar a visão de modo uniforme e
+213
+demonstrar a urgência e os benefícios que ela trará.
+• Etapa 5: Removem obstáculos. Mudanças sempre trazem obstáculos. Estes, algumas
+vezes, representam processos desatualizados, outros, têm base na estrutura
+organizacional e ainda outros, são as pessoas que resistem à mudança. Não importa
+qual, todos os obstáculos precisam ser resolvidos.
+• Etapa 6: Criar vitórias de curto prazo. Identifique vitórias rápidas e fáceis para criar
+impulso e apoio à mudança.
+• Etapa 7: Desenvolver com base na mudança. Depois de concluídas as vitórias de
+curto prazo, a organização precisa definir metas para a melhoria contínua.
+• Etapa 8: Fixar as mudanças na cultura corporativa. Certifique-se de que a mudança
+passe a fazer parte da cultura: continue a transmitir a visão, relate histórias de
+sucesso, reconheça as pessoas da organização que incorporam e fortalecem a
+mudança, e continue a apoiar o comitê de mudanças.
+4.2.4.4 Modelo de mudança Virginia Satir
+Virginia Satir desenvolveu um modelo de como as pessoas experimentam e lidam com a
+mudança. Tem o objetivo de ajudar os membros da equipe do projeto a entender o que
+estão sentindo e habilitá-los a atravessar a mudança com mais eficiência.
+• Status quo tardio. Este estágio inicial acontece quando tudo parece familiar e pode
+ser caracterizado como os “negócios estão como sempre”. Para algumas pessoas, os
+“negócios como sempre” podem ser bons, porque sabem o que esperar. Para outras,
+este status pode parecer um pouco entediante ou obsoleto.
+• O elemento externo. Alguma coisa acontece que muda o status quo nesta etapa.
+Pode ser o início de um projeto que traz a mudança para a maneira usual de trabalho
+da pessoa. Sempre existe um período de resistência e uma perda de desempenho
+após a introdução da mudança. As pessoas podem ignorar a mudança ou
+desconsiderar a sua relevância.
+• Caos. As pessoas entram em um território desconhecido. Não se sentem mais
+confortáveis e o desempenho cai ao menor nível. Sentimentos, ações e
+comportamentos são imprevisíveis. Algumas pessoas sentem ansiedade, outras
+podem se desligar e algumas pessoas podem se sentir empolgadas. O caos pode
+despertar a criatividade nas pessoas enquanto tentam encontrar maneiras de
+entender a situação. Tentam várias ideias e comportamentos para ver qual deles tem
+um resultado positivo.
+• A ideia transformadora. As pessoas chegam a um ponto em que têm uma ideia que
+lhes ajudam a entender a situação. Começam a ver como seria possível encontrar
+214
+uma saída do caos e lidar com a nova realidade. O desempenho do trabalho começa
+a aumentar.
+• Prática e integração. As pessoas tentam implementar suas ideias ou
+comportamentos novos. Pode haver contratempos e um período de tentativas e
+erros, mas ao final, todos aprendem o que funciona ou não. O processo leva a um
+desempenho aprimorado. Quase sempre, o desempenho fica em um nível mais alto
+do que era antes da introdução do elemento externo.
+• Novo status quo. As pessoas se acostumam com o novo ambiente e o desempenho
+se estabiliza. Ao fim do processo, o novo status quo torna-se o ambiente normal de
+trabalho.
+4.2.4.5 Modelo de transição
+O modelo de transição de William Bridge oferece o entendimento do que acontece
+psicologicamente com as pessoas na ocorrência de uma mudança organizacional. Este
+modelo diferencia mudança de transição. A mudança é situacional e acontece ainda que as
+pessoas não façam a transição. A transição é um processo psicológico e as pessoas aos
+poucos aceitam os detalhes da nova situação e as mudanças que ela acarreta.
+ O modelo identifica três estágios da transição associados à mudança:
+• Terminando, perdendo e deixando ir. A mudança é introduzida nesta etapa. Com
+frequência vem associada ao medo, à raiva, ao aborrecimento, à incerteza, negação e
+resistência à mudança.
+• A zona neutra. A mudança acontece nesta etapa. Em alguns casos, as pessoas podem
+se sentir frustradas, ressentidas, confusas e ansiosas com a mudança. A produtividade
+pode cair, pois as pessoas aprendem novas formas de realizar o trabalho. Em outros
+casos, as pessoas podem se tornar muito criativas, inovadoras e apaixonadas por
+poder experimentar novas formas de trabalho.
+• O novo começo. Neste ponto, as pessoas aceitam e adotam a mudança. Tornam-se
+mais adeptas às novas habilidades e às novas formas de trabalho. Em geral, as
+pessoas estão abertas ao aprendizado e se sentem mais energizadas pela mudança.
+215
+4.2.5 MODELOS DE COMPLEXIDADE
+Os projetos existem em um estado de ambiguidade e exigem interações entre vários
+sistemas, muitas vezes com resultados incertos. A complexidade é um desafio com o qual
+devemos trabalhar. Os dois modelos descritos nas Seções 4.2.5.1 e 4.2.5.2 oferecem um
+framework que facilita o entendimento da complexidade e determina como tomar decisões
+em um ambiente complexo.
+4.2.5.1 Framework Cynefin
+Cynefin, o framework criado por Dave Snowden, é conceitual e usado para diagnosticar
+relações de causa e efeito como ajuda para a tomada de decisões. O framework oferece
+cinco contextos de problemas e tomadas de decisão:
+• 1: Quando há uma relação óbvia de causa e efeito, as práticas recomendadas são
+utilizadas para a tomada de decisões.
+• 2: Relações complicadas existem quando há um conjunto de incógnitas conhecidas ou
+um intervalo de respostas corretas. Nessas situações, o melhor é avaliar os fatos,
+analisar a situação e aplicar melhores práticas.
+• 3: As relações complexas incluem incógnitas desconhecidas. Não há causa e efeito
+aparentes e, também, nenhuma resposta correta óbvia. Em ambientes complexos, é
+preciso sondar o ambiente, sentir a situação e responder com atitude. Este estilo usa
+práticas emergentes que permitem ciclos repetidos de sondar-sentir-responder pois
+os ambientes complexos se modificam reagindo a vários estímulos e, o que funcionou
+uma vez, pode ser ineficaz na próxima.
+• 4: Em ambientes caóticos, as causas e os efeitos não são claros. Há muita confusão
+para aguardar o entendimento da situação. Nesses casos, a primeira etapa é agir para
+tentar estabilizar a situação; depois, sentir onde se encontra a estabilidade e
+responder, tomando medidas para trazer a situação caótica para uma situação
+complexa.
+• 5: Falta clareza às relações desordenadas e, talvez, precisem ser divididas em partes
+menores, com contexto vinculado a um dos outros quatro contextos.
+216
+O framework Cynefin ajuda a identificar comportamentos como sondar, sentir, responder,
+agir e categorizar, e isto pode ajudar a influenciar as relações entre as variáveis e guiar as
+ações.
+4.2.5.2 Matriz de Stacey
+Ralph Stacey desenvolveu a matriz de Stacey, semelhante ao framework Cynefin, mas analisa
+duas dimensões para determinar a complexidade relativa de um projeto:
+(a) a incerteza relativa dos requisitos para a entrega e
+(b) a incerteza relativa de que a tecnologia será usada para criar a entrega.
+Com base na incerteza relativa dessas dimensões, o projeto pode ser considerado simples,
+complicado, complexo ou caótico. O grau de complexidade é um fator que influencia os
+métodos de tailoring e as práticas do projeto.
+
+4.2.6 MODELOS DE DESENVOLVIMENTO DA EQUIPE DO PROJETO
+As equipes do projeto passam por diferentes estágios de desenvolvimento. Conhecer o
+estágio da equipe neste desenvolvimento ajuda os gerentes de projeto a apoiar a equipe do
+projeto e o seu crescimento. Os dois modelos apresentados nas Seções 4.2.6.1 e 4.2.6.2
+ilustram como as equipes do projeto se movimentam através dos vários estágios para se
+tornarem equipes de projeto de alto desempenho.
+4.2.6.1 Escada de Tuckman
+Bruce Tuckman articulou os estágios de desenvolvimento da equipe como formação, conflito,
+acordo e desempenho. Muitas pessoas acrescentam um quinto estágio: dispersão.
+• Formação. Primeiro, a equipe do projeto se forma. Os membros começam a se
+conhecer pelo nome, posição na equipe do projeto, quais os conjuntos de
+habilidades ou outras informações históricas pertinentes. Talvez isso ocorra na
+reunião inicial (kick off meeting).
+• Conflito. Os membros da equipe do projeto competem por posição na equipe. Nesta
+fase surgem as personalidades, pontos fortes e fracos das pessoas. Pode haver algum
+conflito ou disputa até que as pessoas descubram como trabalhar em conjunto. A
+confrontação pode se estender por algum tempo ou terminar relativamente rápido.
+• Acordo. A equipe do projeto começa a funcionar como uma coletividade. Neste
+ponto, os integrantes da equipe do projeto sabem o lugar que ocupam, como se
+217
+relacionar e interagir com os outros membros. Começam a trabalhar em conjunto.
+Alguns desafios podem surgir à medida que o trabalho avança, mas esses problemas
+são resolvidos rapidamente e a equipe do projeto entra em ação.
+• Desempenho. A equipe do projeto se torna operacionalmente eficiente. Este é o
+estágio de maturidade da equipe do projeto. Os membros da equipe, juntos há
+algum tempo, são capazes de desenvolver uma sinergia. Trabalhando juntos, os
+membros da equipe do projeto realizam mais e produzem um produto de alta
+qualidade.
+• Dispersão. A equipe do projeto conclui o trabalho e se dispersa para trabalhar em
+outras coisas. Se a equipe do projeto estabeleceu boas relações, alguns membros da
+equipe podem ficar tristes por deixar a equipe.
+ Neste modelo, a cultura da equipe começa no estágio de formação e evolui ao longo dos
+demais estágios de desenvolvimento. Embora este modelo mostre uma progressão linear, as
+equipes de projeto podem ir e voltar entre esses estágios. Além disso, não são todas as
+equipes que alcançam o estágio de desempenho, às vezes nem mesmo o estágio do acordo.
+4.2.6.2 Modelo Drexler/Sibbet de desempenho da equipe
+Allan Drexler e David Sibbet desenvolveram um modelo de desempenho de equipe com sete
+etapas. As etapas de 1 a 4 descrevem os estágios da criação de uma equipe de projeto e as
+etapas 5 a 7 tratam da sustentabilidade e o desempenho desta equipe.
+• Etapa 1: Orientação. A orientação responde à pergunta por quê? Neste estágio, a
+equipe de projeto conhece o propósito e a missão do projeto. Em geral, isto ocorre
+na reunião de início do projeto ou está documentada em um business case, termo de
+abertura do projeto ou no Lean startup canvas.
+• Etapa 2: Construção de confiança. Esta etapa responde à pergunta quem. Esclarece
+quem faz parte da equipe do projeto e as habilidades e capacidades que cada pessoa
+traz consigo. Pode, também, incluir informações sobre as principais partes
+interessadas, que talvez não façam parte da equipe do projeto, mas que a
+influenciam.
+• Etapa 3: Clareza de objetivos. Esta etapa responde à pergunta o quê. Neste estágio, a
+equipe do projeto prepara as informações de alto nível do projeto. Pode incluir outras
+revelações sobre as expectativas da parte interessada, requisitos, premissas e os
+critérios de aceitação e entrega.
+• Etapa 4: Comprometimento. Responde à pergunta como. Neste estágio, a equipe do
+projeto inicia a definição dos planos para alcançar os objetivos. Incluem-se
+218
+cronograma de marcos, planos de liberação, orçamentos de alto nível, recursos
+necessários, etc.
+• Etapa 5: Implementação. Os planos de alto nível se decompõem em níveis mais
+detalhados, como um cronograma ou backlog detalhado. A equipe do projeto inicia o
+trabalho em conjunto para produzir entregas.
+• Etapa 6: Alta performance. Após algum tempo de trabalho em conjunto, os
+integrantes da equipe do projeto alcançam um alto nível de performance. Trabalham
+bem juntos, não exigem muita supervisão e experimentam sinergias dentro da
+equipe do projeto.
+• Etapa 7: Renovação. Neste estágio, o trabalho passa por mudanças na equipe ou no
+projeto. As entregas, as partes interessadas, o ambiente, a liderança da equipe do
+projeto ou seus membros integrantes podem mudar. Isso faz com que a equipe do
+projeto analise se as ações e o comportamento anteriores são suficientes, ou se a
+equipe precisa regredir um estágio para redefinir expectativas e modos de trabalhar
+em conjunto.
+4.2.7 OUTROS MODELOS
+Os modelos descritos nas Seções 4.2.7.1 a 4.2.7.5 abrangem muitos tópicos como
+gerenciamento de conflitos, negociações, grupos de processo de planejamento e relevância.
+4.2.7.1 Modelo de conflito
+A existência do conflito é muito comum nos projetos. O conflito pode ser saudável e
+produtivo se for bem controlado. Pode resultar em mais confiança entre os integrantes da
+equipe do projeto e em um comprometimento mais profundo com os resultados. Temer o
+conflito pode restringir a comunicação e a criatividade.
+ No entanto, o conflito também pode trazer prejuízos. O conflito mal resolvido pode levar à
+insatisfação, falta de confiança, diminuindo o moral e a motivação. O modelo com base no
+trabalho de Thomas e Ralph Kilmann descreve seis maneiras de resolver o conflito com
+enfoque no poder relativo entre os indivíduos e o desejo de manter um bom
+relacionamento, desta forma:
+• Confrontando e resolvendo problemas. Confrontar um conflito trata a questão
+como um problema a ser resolvido. Este estilo da resolução de conflitos é usado
+quando o relacionamento entre as partes é importante, e quando cada pessoa confia
+na capacidade que a outra parte tem de solucionar problemas.
+219
+• Colaborando. A colaboração envolve incorporar as várias visões de um conflito. Tem
+por objetivo conhecer os vários ângulos e observar os fatos por diferentes
+perspectivas. Este é um método eficaz quando há confiança entre os participantes e
+quando há tempo para se chegar a um consenso. O gerente de projeto pode facilitar
+este tipo de resolução de conflito entre os integrantes da equipe.
+• Conciliando. Em alguns conflitos, as partes não ficarão totalmente satisfeitas. Nesses
+casos, a melhor abordagem será um ajuste ou conciliação. Conciliar implica
+disposição de dar e receber. Isso permite às partes obter algo que queiram e evita
+ampliar o conflito. Este estilo é muitas vezes usado quando as partes envolvidas
+mantêm o mesmo nível de “poder”. O gerente de projeto pode chegar a um acordo
+com um gerente técnico sobre a disponibilidade de um integrante da equipe
+trabalhar no projeto, por exemplo.
+• Estabilizando e acomodando. Duas atitudes úteis quando se alcança a meta
+principal: mais importante do que a discordância. Esta abordagem mantém a
+harmonia dos relacionamentos e pode criar a boa vontade entre as partes. Também
+é usada quando existe uma diferença na autoridade ou no poder relativo das
+pessoas. Por exemplo, esta abordagem pode ser adequada quando existe desacordo
+com o patrocinador. Como o patrocinador ocupa posição superior à do gerente de
+projeto ou do integrante da equipe do projeto, e quando existe o desejo de manter
+um bom relacionamento com o patrocinador, adotar a posição de acomodação pode
+ser o apropriado.
+• Impondo. Esta atitude é usada quando não há tempo suficiente para colaborar ou
+resolver o problema. Neste cenário, uma parte impõe a sua vontade sobre a outra. A
+parte que impõe tem mais poder do que a parte subordinada. O estilo de imposição
+pode ser usado se houver um conflito de saúde e segurança que precise de solução
+imediata.
+• Afastando e evitando. Às vezes, a resolução do problema chega sozinha; em outros
+momentos, as discussões esquentam e os envolvidos precisam de um período de
+reflexão. Nos dois cenários, afastar-se da situação será o certo. O afastamento
+também é usado em cenários sem vitória como, por exemplo, cumprir o requisito
+imposto por uma agência reguladora é melhor do que desafiar o requisito.
+4.2.7.2 Negociação
+São inúmeros os modelos de negociação. Um deles é o princípio de Steven Covey: “Think
+Win-Win” (Pense Ganha-Ganha). Este princípio aplica todas as interações, não apenas
+negociações, mas é descrito aqui no contexto da negociação. Nas negociações, pode haver
+resultados possíveis diferentes:
+220
+• Ganha-ganha. Este será o resultado ideal em que as pessoas estão satisfeitas com o
+resultado.
+• Ganha-perde/perde-ganha. Descreve uma perspectiva de competição em que, para
+vencer, alguém precisa perder. Pode vir também de uma perspectiva de mártir em
+que alguém escolhe perder para que outros ganhem.
+• Perde-perde. Este resultado pode acontecer quando o resultado ganha-ganha teria
+sido possível, mas a competição prevalece sobre a colaboração. Neste cenário, todos
+terminam na pior situação.
+A perspectiva ganha-ganha acontece quando se apresentam os seguintes aspectos:
+• Caráter. As partes envolvidas são maduras, demonstram integridade e compartilham
+a perspectiva de que existe valor suficiente para todos.
+• Confiança. As partes mantêm confiança mútua, estabelecem acordos sobre como
+trabalhar e são responsáveis.
+• Abordagem. As partes estão dispostas a analisar a situação pelo ponto de vista da
+outra. Trabalham juntas para identificar as principais questões e preocupações.
+Conseguem identificar qual seria uma solução aceitável e, ainda, quais as opções para
+se alcançar uma solução aceitável.
+4.2.7.3 Planejamento
+Barry Boehm desenvolveu um modelo que compara o tempo e o esforço investido no
+desenvolvimento de planos para reduzir o risco, incluindo o atraso e outros custos associados
+ao excesso de planejamento. Ao dedicar mais tempo para planejar com antecedência, muitos
+projetos podem reduzir a incerteza, a supervisão e o retrabalho.
+No entanto, quanto maior o tempo gasto no planejamento, maior será o tempo para obter o
+retorno do investimento, mais participação de mercado pode ser perdida e outras
+circunstâncias poderão ter se modificado no momento da entrega do produto.
+A intenção desse modelo é ajudar a identificar a quantidade ideal de planejamento, às vezes
+chamada de ponto ideal. O ponto ideal é diferente para cada projeto; desta forma, não há
+uma resposta correta para qual será a quantidade certa de planejamento geral. Este modelo
+demonstra que existe um momento em que mais planejamento se torna contraproducente.
+4.2.7.4 Grupos de processo
+221
+Os processos do gerenciamento de projetos podem ser organizados em agrupamentos
+lógicos de entradas, ferramentas e técnicas, e saídas do gerenciamento de projetos, com
+tailoring para atender às necessidades da organização, das partes interessadas e do projeto.
+Os grupos de processos não são fases do projeto. Eles interagem com cada fase de um ciclo
+de vida do projeto. Talvez, todos esses processos podem ocorrer em uma única fase. Os
+processos podem ser repetidos dentro de uma fase ou ciclo de vida. O número de iterações e
+as interações entre processos variam de acordo com as necessidades do projeto.
+Os projetos que seguem uma abordagem com base em processo podem usar os seguintes
+cinco grupos de processo com uma estrutura organizacional:
+• Iniciação. Os processos realizados para definir um novo projeto ou uma nova fase de
+um projeto existente, através da obtenção de autorização para iniciar o projeto ou
+fase.
+• Planejamento. Os processos necessários para definir o escopo do projeto, refinar os
+objetivos e desenvolver o curso de ação necessário para alcançar os objetivos para os
+quais o projeto foi criado.
+• Execução. Os processos realizados para concluir o trabalho definido no plano de
+gerenciamento do projeto para satisfazer os requisitos do projeto.
+• Monitoramento e controle. Os processos necessários para acompanhar, analisar e
+regular o progresso e o desempenho do projeto, identificar todas as áreas nas quais
+serão necessárias mudanças no plano e iniciar as mudanças correspondentes.
+• Encerramento. Os processos realizados para concluir ou encerrar formalmente um
+projeto, uma fase ou contrato.
+Esses grupos de processos são independentes da abordagem de entrega, das áreas de
+aplicação (como marketing, gerenciamento da informação ou contabilidade) ou do setor
+(como construção civil, aeroespacial e telecomunicações). A saída de um processo em geral
+torna-se uma entrada em outro processo ou é uma entrega do projeto ou da fase do projeto.
+Por exemplo, um plano de gerenciamento do projeto e os documentos do projeto, como o
+registro dos riscos, o registro de premissas, etc., produzidos no grupo de processos de
+planejamento, são entradas para o grupo de processos de execução em que se fazem as
+atualizações nos artefatos associados.
+222
+4.2.7.5 Modelo de relevância
+O modelo de relevância trata das partes interessadas. Relevância significa proeminente,
+perceptível ou percebido como importante. Este modelo foi proposto por Ronald K. Mitchell,
+Bradley R. Agle e Donna J. Wood. Os autores destacaram uma identificação das partes
+interessadas com base em três variáveis: poder de influenciar, legitimidade dos
+relacionamentos entre as partes interessadas com o projeto e a urgência das reivindicações
+das partes interessadas no projeto para o engajamento delas.
+4.3 MODELOS APLICADOS NOS DOMÍNIOS DE DESEMPENHO
+ É provável que diferentes modelos sejam mais úteis em diferentes domínios de desempenho
+de projeto. Embora as necessidades do projeto, das partes interessadas e do ambiente
+organizacional determinarão quais modelos são mais aplicáveis a um projeto específico,
+existem alguns domínios de desempenho com maior probabilidade de usar cada modelo. A
+Tabela 4-1 sugere domínio(s) de desempenho em que cada modelo tem maior probabilidade
+de ser útil; no entanto, o gerente e a equipe do projeto têm a responsabilidade final de
+selecionar os modelos certos para os seus projetos.
+
+223
+Tabela 4-1. Mapeamento dos modelos com probabilidade de uso em cada
+domínio de desempenho
+224
+4.4 MÉTODOS MAIS USADOS
+ O método define um meio de alcançar um resultado, saída ou entrega do projeto. Os
+métodos descritos aqui são uma amostragem dos mais usados para apoiar o trabalho do
+projeto. Existem muitos métodos, não descritos aqui, porque são usados no gerenciamento
+de projetos da mesma maneira que em outras disciplinas, como entrevistas, grupos de
+discussão, listas de verificação, etc., ou porque não são muito usados em um amplo espectro
+de projetos (ou seja, os métodos são específicos do setor).
+ Muitos dos métodos se relacionam pelo objetivo a que servem, como estimativa ou coleta
+de dados e, portanto, são apresentados em um grupo. Outros se relacionam pelo tipo de
+atividade envolvida, como aquelas das reuniões e dos grupos de análise.
+ O conteúdo desta seção não se destina a descrever como um método é executado. As
+descrições são apresentadas em alto nível, com informações mais detalhadas disponíveis em
+várias fontes, como o PMIstandards+.
+4.4.1 COLETA E ANÁLISE DE DADOS
+ Métodos de coleta e análise de dados são usados para coletar, analisar e avaliar dados e
+informações para obter uma compreensão mais profunda de uma situação. As saídas da
+análise de dados podem ser organizadas e apresentadas como um dos artefatos mostrados
+na Seção 4.6.6. Os métodos de coleta e análise de dados aqui descritos, com os artefatos
+descritos na Seção 4.6.6, são frequentemente usados para informar decisões.
+• Análise de alternativas. A análise de alternativas é usada para avaliar as opções
+identificadas a fim de selecionar opções ou abordagens a serem usadas para executar
+o trabalho do projeto.
+• Análise de premissas e restrições. A premissa é um fator considerado verdadeiro, real
+ou certo, sem necessidade de prova ou demonstração. A restrição é um fator
+limitador que afeta a execução de um projeto, programa, portfólio ou processo. Esta
+forma de análise garante que premissas e restrições se integrem nos planos e
+documentos do projeto, de modo uniforme entre elas.
+• Benchmarking. O benchmarking compara produtos, processos e práticas, reais ou
+planejados, com os de organizações similares para identificar as práticas
+recomendadas, gerar ideias para melhorias e fornecer uma base para medir o
+desempenho.
+• Métodos de análise da justificativa do negócio. Este grupo de métodos de análise
+está associado com autorizar ou justificar um projeto ou uma decisão. Com
+225
+frequência, os resultados das seguintes análises são usados em um business case que
+justifica a execução de um projeto.
+✓ Período de retorno. Refere-se ao tempo necessário para recuperar um
+investimento. Contado usualmente em meses ou anos.
+✓ Taxa interna de retorno (TIR). Rendimento anual projetado do investimento em
+um projeto que incorpora os custos iniciais e contínuos em uma taxa de
+crescimento percentual estimada que determinado projeto apresente.
+✓ Retorno sobre o investimento (ROI). Percentual de retorno de um investimento
+inicial, calculado considerando a média projetada de todos os benefícios líquidos e
+dividindo-os pelo custo inicial.
+✓ Valor presente líquido (VPL). É o valor futuro dos benefícios esperados, expresso
+no valor que esses benefícios têm no momento do investimento. O VPL considera
+custos e benefícios, atuais e futuros, mais inflação.
+✓ Análise de custo-benefício. Ferramenta de análise financeira usada para
+determinar os benefícios fornecidos por um projeto em relação aos seus custos.
+
+• Folha de verificação. Folha de resultados que pode ser usada como uma lista de
+verificação durante a coleta de dados. As folhas de verificação podem ser usadas para
+coleta e separação de dados em categorias. Podem também ser usadas para criar
+histogramas e matrizes, como descrito na Seção 4.6.6.
+• Custo da qualidade. Inclui todos os custos incorridos durante a vida do produto
+através do investimento na prevenção de não conformidades com os requisitos,
+avaliação do produto ou serviço em relação à conformidade com os requisitos e
+incapacidade de cumpri-los.
+• Análise da árvore de decisão. Um método de diagramação e de cálculo para avaliar
+as implicações de uma cadeia de múltiplas opções na presença de uma incerteza. As
+árvores de decisão podem usar as informações geradas a partir de uma análise de
+valor monetário esperado para preencher as ramificações da árvore de decisão.
+• Análise do valor agregado. Método de análise que usa um conjunto de medidas
+associadas ao escopo, cronograma e custo para determinar o desempenho do custo
+e cronograma de um projeto.
+• Valor monetário esperado (VME). O valor estimado de um resultado expresso em
+termos monetários. Usado para quantificar o valor da incerteza, como em um risco,
+ou comparar o valor de alternativas não necessariamente equivalentes. Calcula-se o
+VME multiplicando a probabilidade de um evento ocorrer e o impacto econômico
+que o evento teria, caso ocorresse.
+226
+• Previsão. Uma estimativa ou prognóstico de condições e eventos futuros do projeto
+com base no conhecimento e informações disponíveis no momento da previsão
+Métodos de previsão qualitativa usam pareceres e capacidade crítica de especialistas
+no assunto. A previsão quantitativa utiliza modelos que usam as informações
+passadas para prever o desempenho futuro. A previsão causal ou econométrica,
+como a análise de regressão, identifica variáveis que podem ter impacto significativo
+em resultados futuros.
+• Diagrama de influência. Uma representação gráfica de situações que mostram
+influências causais, ordem dos eventos por tempo e outras relações entre variáveis e
+resultados.
+• Avaliação do ciclo de vida. Uma ferramenta usada para avaliar o impacto total de um
+produto, processo ou sistema no ambiente. Inclui todos os aspectos da produção de
+uma entrega de projeto, desde a origem dos materiais usados na entrega até sua
+distribuição e descarte final.
+• Análise de fazer ou comprar. Processo que reúne e organiza dados sobre os
+requisitos do produto para analisá-los em relação às alternativas disponíveis como a
+compra versus produção interna do produto.
+• Matriz de probabilidade e impacto. Uma rede para o mapeamento da probabilidade
+de ocorrência de cada risco e o seu impacto nos objetivos do projeto.
+• Análise de processo. Revisão sistemática das etapas e os procedimentos para realizar
+uma atividade.
+• Análise de regressão. Método analítico que avalia uma série de variáveis de entrada
+em relação aos resultados das respectivas saídas para desenvolver um
+relacionamento matemático ou estatístico.
+• Análise de reservas. Esta técnica de análise é usada para avaliar quanto de risco e de
+reserva de orçamento e cronograma há no projeto para determinar se a reserva é
+suficiente para o risco restante. A reserva contribui para reduzir o risco a um nível
+aceitável.
+• Análise de causa-raiz. Esta técnica de análise é usada para determinar a causa básica
+originária de uma variação, um defeito ou risco. A causa-raiz pode provocar mais de
+uma variação, defeito ou risco.
+• Análise de sensibilidade. Esta técnica de análise é usada para determinar quais riscos
+individuais do projeto ou outras fontes de incerteza apresentam o maior impacto
+potencial sobre os resultados do projeto, através da correlação de variações nos
+resultados do projeto com variações em elementos de um modelo de análise
+quantitativa de riscos.
+227
+• Simulações. Esta técnica de análise usa modelos para demonstrar o efeito
+combinado de incertezas para avaliar seus potenciais impactos nos objetivos. A
+simulação de Monte Carlo é um método para identificar os possíveis impactos de
+risco e incerteza, usando várias iterações de um modelo de computador para
+desenvolver uma distribuição de probabilidades de uma série de resultados que
+podem derivar de uma decisão ou curso de ação.
+• Análise das partes interessadas. Esta técnica envolve coleta sistemática e análises,
+quantitativa e qualitativa, de informações sobre partes interessadas para determinar
+quais interesses devem ser considerados durante o projeto.
+• Análise de forças, oportunidades, fraquezas e ameaças (FOFA/SWOT). Esta análise
+avalia os pontos fortes (Strengths), fracos (Weaknesses), as oportunidades
+(Opportunities) e ameaças (Threats) de uma organização, projeto ou opção.
+• Análise de tendências. Método analítico que usa modelos matemáticos para prever
+resultados futuros com base em resultados históricos.
+• Mapeamento da cadeia de valor. Um método enxuto de negócios usado para
+documentar, analisar e melhorar o fluxo de informações ou materiais necessários
+para gerar um produto ou serviço para um cliente.
+• Análise de variação. Utilizada para determinar a causa e o grau de diferença entre a
+linha de base e o desempenho real.
+• Análise de cenário e-se. Esta técnica analítica avalia cenários para prever seus efeitos
+nos objetivos do projeto.
+4.4.2 ESTIMATIVA
+ Métodos usados para se obter uma medida aproximada do trabalho, tempo ou custo em um
+projeto.
+• Agrupamento de afinidades. Envolve a classificação de itens semelhantes em
+categorias ou coleções. Os agrupamentos de afinidade comuns incluem o tamanho: P,
+M e G (t-shirt size) e os números de Fibonacci.
+• Estimativa análoga. Avalia a duração ou o custo de uma atividade ou projeto, usando
+dados históricos de atividade ou projeto semelhante.
+• Ponto de função. Estimativa da quantidade de funcionalidades do negócio em um
+sistema de informações. Pontos de função são usados para calcular uma medição de
+tamanho funcional (MTF) de um software.
+228
+• Estimativa multiponto. Avalia o custo ou a duração aplicando uma média, ou média
+ponderada, das estimativas otimistas, pessimistas e mais prováveis, quando existe
+incerteza em relação às estimativas da atividade em questão.
+• Estimativa paramétrica. Utiliza um algoritmo para calcular o custo ou a duração com
+base em dados históricos e nos parâmetros do projeto.
+• Estimativa relativa. Método utilizado para criar estimativas derivadas da realização
+de uma comparação com um conjunto de trabalho semelhante, levando em
+consideração o esforço, a complexidade e a incerteza. A estimativa relativa não se
+baseia, necessariamente, em unidades absolutas de custo ou tempo. Pontos
+históricos são uma medida sem unidade comum usada na estimativa relativa.
+• Estimativa de ponto único. Método que envolve o uso de dados para calcular um
+único valor que reflete a melhor estimativa possível. Opõe-se a uma estimativa de
+faixa que inclui o cenário do melhor e do pior caso.
+• Estimativa de ponto de história (story point). Método que envolve os membros da
+equipe do projeto atribuindo pontos de esforço abstratos, mas relativos, necessários
+para implementar uma história de usuário. Informa à equipe do projeto sobre a
+dificuldade da história, considerando a complexidade, os riscos e os esforços
+envolvidos.
+• Wideband Delphi. Variação do método Delphi de estimativa em que os especialistas
+passam por várias rodadas de produção de estimativas individualmente, com
+discussão da equipe do projeto após cada rodada, até que o consenso seja alcançado.
+No caso do método Wideband Delphi, os que criaram as estimativas mais altas e mais
+baixa explicam suas justificativas e, após, todos fazem novas estimativas. O processo
+se repete até que se alcance a convergência. “Planning poker” é uma variação da
+Wideband Delphi.
+4.4.3 REUNIÕES E EVENTOS
+ As reuniões são um meio importante para engajar a equipe do projeto e outras partes
+interessadas. São os principais meios de comunicação em todo o projeto.
+
+• Refinamento de backlog. Em uma reunião de refinamento de backlog, o backlog é
+progressivamente elaborado e (re)priorizado para identificar o trabalho que pode ser
+realizado em uma próxima iteração.
+229
+• Reunião com licitantes. São as reuniões com possíveis vendedores antes da
+preparação de uma licitação ou proposta para garantir que todos os prováveis
+fornecedores tenham uma compreensão clara e comum do processo de aquisição.
+São também conhecidas como reuniões com contratados, reuniões com prestadores
+de serviços ou reuniões pré-licitação.
+• Comitê de controle de mudanças. Esta reunião inclui o grupo de pessoas responsáveis
+por analisar, avaliar, aprovar, adiar ou rejeitar as alterações ao projeto. As decisões
+tomadas nesta reunião são registradas e comunicadas às partes interessadas
+apropriadas. Esta reunião também pode ser chamada de reunião de controle de
+mudanças.
+• Reunião diária em pé (Daily standup). Uma breve reunião diária de colaboração em
+que a equipe do projeto analisa o progresso do dia anterior, declara as intenções para
+o dia atual e destaca os obstáculos encontrados ou previstos. Essa reunião também
+pode ser chamada de Scrum diário.
+• Planejamento de iteração. Reunião para esclarecer os detalhes dos itens de backlog,
+critérios de aceitação e esforço de trabalho necessário para cumprir um compromisso
+de iteração próximo. Esta reunião também pode ser chamada de planejamento de
+sprint.
+• Revisão de iteração. Reunião realizada no final de uma iteração para apresentar o
+trabalho realizado durante a iteração. Esta reunião também pode ser chamada de
+revisão de sprint.
+• Início (Kick-off). Reunião dos membros da equipe do projeto com outras partes
+interessadas importantes no início de um projeto para definir formalmente
+expectativas, obter um entendimento comum e iniciar o trabalho. Estabelece o início
+de um projeto, fase ou iteração.
+• Reunião de lições aprendidas. Usada para identificar e compartilhar o conhecimento
+adquirido durante um projeto, fase ou iteração com foco na melhoria do desempenho
+da equipe do projeto. Esta reunião pode tratar de situações que poderiam ter sido
+cuidadas de melhor forma, além das práticas recomendadas e situações que
+produziram resultados bem favoráveis.
+• Reunião de planejamento. Usada para criar, elaborar ou analisar um plano (ou
+planos) e garantir o comprometimento com o(s) plano(s).
+230
+• Encerramento do projeto. Reunião em que se obtém a aceitação final do escopo
+entregue pelo patrocinador, dono do produto ou o cliente. Esta reunião indica que a
+entrega do produto está concluída.
+• Revisão do projeto. Evento ao final de uma fase ou projeto para avaliar o status e o
+valor entregue, e determinar se o projeto está pronto para seguir para a próxima fase
+ou transição para operações.
+• Planejamento de liberação. Estas reuniões identificam um plano de alto nível para
+liberar ou fazer a transição de um produto, entrega ou incremento de valor.
+• Retrospectiva. Workshop que ocorre regularmente em que os participantes exploram
+seus trabalhos e resultados para melhorar o processo e o produto. As retrospectivas
+também são uma versão da reunião de lições aprendidas.
+• Revisão dos riscos. Reunião que analisa o status dos riscos existentes e identifica
+novos. Inclui determinar se o risco ainda está ativo e se houve mudanças nos
+atributos do risco (como probabilidade, impacto, urgência, etc.). As respostas ao risco
+são avaliadas para determinar se são efetivas ou deveriam ser atualizadas. Novos
+riscos podem ser identificados e analisados, assim como os riscos inativos devem ser
+removidos. A reavaliação de riscos é um exemplo de uma reunião de revisão dos
+riscos.
+• Reunião de status. Evento agendado regularmente para trocar e analisar informações
+sobre o andamento atual do projeto e seu desempenho.
+• Comitê diretivo. Reunião em que as partes interessadas de nível executivo fornecem
+orientação e apoio à equipe do projeto e tomam decisões fora da autoridade da
+equipe do projeto.
+231
+4.4.4 OUTROS MÉTODOS
+ Os métodos descritos nesta seção não se enquadram em uma categoria específica; no
+entanto, são métodos comuns, usados para diversas finalidades em projetos.
+• Mapeamento de impactos. Um método de planejamento estratégico que serve como
+roteiro visual para a organização durante o desenvolvimento do produto.
+• Modelagem. Processo para a criação de representações simplificadas de sistemas,
+soluções ou entregas, como protótipos, diagramas ou storyboards. A modelagem
+pode facilitar análises adicionais, identificando lacunas nas informações, áreas de falta
+de comunicação ou requisitos adicionais.
+• Pontuação líquida de promotores (Net Promoter Score® – NPS®). Um índice que
+mede a disposição dos clientes de recomendar produtos ou serviços de uma
+organização a terceiros, também conhecido como Net Promotor Score® (NPS®). A
+pontuação é usada como representação (proxy) para medir a satisfação geral do
+cliente com o produto ou serviço de uma organização e a lealdade do cliente à marca.
+• Esquema de priorização. Métodos usados para priorizar componentes de portfólio,
+programa ou projeto, bem como requisitos, riscos, recursos ou outras informações do
+produto. Inclui-se nos exemplos uma análise ponderada por vários critérios e o
+método MoSCoW (deve ter, deveria ter, poderia ter e não terá).
+• Janela de tempo (Timebox). Um período curto e fixo de tempo em que o trabalho
+deve ser concluído, como 1 semana, 2 semanas ou 1 mês. 
