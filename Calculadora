@@ -1,0 +1,50 @@
+package org.example;
+
+public class Calculadora {
+    private double x;
+    private double y;
+
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+        this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+        this.y = y;
+    }
+
+    public double soma() {
+        return x + y;
+    }
+
+    public double subtracao() {
+        return x - y;
+    }
+
+    public double multiplicacao() {
+        return x * y;
+    }
+
+    public double divisao() {
+        if (y != 0) {
+            return x / y;
+        } else {
+            throw new IllegalArgumentException("Erro: divisão por zero!");
+        }
+    }
+
+    public double raiz() {
+        return Math.sqrt(x);
+    }
+
+    public double potencia() {
+        return Math.pow(x, y);
+    }
+}
