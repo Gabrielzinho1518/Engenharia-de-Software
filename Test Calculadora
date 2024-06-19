@@ -1,0 +1,55 @@
+package org.example;
+
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class CalculadoraTest {
+
+    @Test
+    void testSoma() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(2);
+        calculadora.setY(2);
+        assertEquals(4, calculadora.soma());
+    }
+
+    @Test
+    void testSubtracao() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(5);
+        calculadora.setY(2);
+        assertEquals(3, calculadora.subtracao());
+    }
+
+    @Test
+    void testMultiplicacao() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(3);
+        calculadora.setY(4);
+        assertEquals(12, calculadora.multiplicacao());
+    }
+
+    @Test
+    void testDivisao() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(10);
+        calculadora.setY(2);
+        assertEquals(5, calculadora.divisao());
+    }
+
+    @Test
+    void testRaiz() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(9);
+        assertEquals(3, calculadora.raiz());
+    }
+
+    @Test
+    void testPotencia() {
+        Calculadora calculadora = new Calculadora();
+        calculadora.setX(10);
+        calculadora.setY(2);
+        assertEquals(100, calculadora.potencia());
+    }
+}
